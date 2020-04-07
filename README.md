@@ -1,0 +1,2 @@
+# firstkotlin
+learning kotlin
